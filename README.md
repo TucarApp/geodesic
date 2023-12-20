@@ -1,6 +1,6 @@
 # geodesic
 
-[![GoDoc](https://godoc.org/github.com/tidwall/geodesic?status.svg)](https://godoc.org/github.com/tidwall/geodesic)
+[![GoDoc](https://godoc.org/github.com/TucarApp/geodesic?status.svg)](https://godoc.org/github.com/TucarApp/geodesic)
 
 `geodesic` is a Go package providing operations for performing accurate measurements of Earth. Includes a Go port of the geodesic routines from [GeographicLib](https://geographiclib.sourceforge.io) along with general-purpose spherical algorithms.
 
@@ -17,7 +17,7 @@
 To start using `geodesic`, install Go and run `go get`:
 
 ```sh
-$ go get -u github.com/tidwall/geodesic
+$ go get -u github.com/TucarApp/geodesic
 ```
 
 This will retrieve the library.
@@ -126,4 +126,4 @@ fmt.Printf("%f area (km²), %f perimeter (meters)\n", area/1000000, perimeter)
 // 294838.722804 area (km²), 2254910.021767 perimeter (meters)
 ```
 
-For full api documentation see https://pkg.go.dev/github.com/tidwall/geodesic#pkg-index.
+For full api documentation see https://pkg.go.dev/github.com/TucarApp/geodesic#pkg-index.

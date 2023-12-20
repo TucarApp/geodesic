@@ -10,7 +10,7 @@ import (
 )
 
 // The "test.data" file has been generated from the
-// https://github.com/tidwall/geodesic_cgo project.
+// https://github.com/TucarApp/geodesic_cgo project.
 
 //go:embed test.data
 var testData []byte

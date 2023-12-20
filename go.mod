@@ -1,4 +1,4 @@
-module github.com/tidwall/geodesic
+module github.com/TucarApp/geodesic
 
 go 1.17
 
